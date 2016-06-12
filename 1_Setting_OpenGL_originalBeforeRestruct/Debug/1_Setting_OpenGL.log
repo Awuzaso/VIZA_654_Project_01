@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (1_Setting_OpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\awuza_000\documents\visual studio 2015\projects\viza_654_project_01\1_setting_opengl\glutfunctions.h(10): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\awuza_000\documents\visual studio 2015\projects\viza_654_project_01\1_setting_opengl\main.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\awuza_000\documents\visual studio 2015\projects\viza_654_project_01\1_setting_opengl\main.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\awuza_000\documents\visual studio 2015\projects\viza_654_project_01\1_setting_opengl\main.cpp(114): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\awuza_000\documents\visual studio 2015\projects\viza_654_project_01\1_setting_opengl\main.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\awuza_000\documents\visual studio 2015\projects\viza_654_project_01\1_setting_opengl\main.cpp(124): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  1_Setting_OpenGL.vcxproj -> C:\Users\awuza_000\Documents\Visual Studio 2015\Projects\VIZA_654_Project_01\Debug\VIZA_654_Project_01.exe
+  1_Setting_OpenGL.vcxproj -> C:\Users\awuza_000\Documents\Visual Studio 2015\Projects\VIZA_654_Project_01\Debug\VIZA_654_Project_01.pdb (Partial PDB)
